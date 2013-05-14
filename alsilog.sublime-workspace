@@ -1,0 +1,1309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"par",
+				"parseSelector"
+			],
+			[
+				"anima",
+				"animationend"
+			],
+			[
+				"dia",
+				"dialogDOM"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"primary",
+				"primary_category_id"
+			],
+			[
+				"addCat",
+				"addCategoryTagButton"
+			],
+			[
+				"primar",
+				"primary_category"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"querySelect",
+				"querySelectorAll"
+			],
+			[
+				"caeg",
+				"category_list"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"status",
+				"statusEnabled"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"variants",
+				"variantsHtml"
+			],
+			[
+				"refresh",
+				"refreshProduct"
+			],
+			[
+				"event",
+				"eventEl"
+			],
+			[
+				"Prd",
+				"productIds"
+			],
+			[
+				"produ",
+				"productIds"
+			],
+			[
+				"RemoveF",
+				"REMOVE_FROM_CART"
+			],
+			[
+				"fun",
+				"fun	Anonymous Function"
+			],
+			[
+				"f",
+				"fun	Anonymous Function"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"proto",
+				"proto	Prototype"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"Prod",
+				"Product"
+			],
+			[
+				"prot",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "alsilog.py",
+			"settings":
+			{
+				"buffer_size": 413,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 556,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/css/style.less",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"syntax",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff All"
+			],
+			[
+				"gcom",
+				"Git: Commit"
+			],
+			[
+				"gadd",
+				"Git: Add..."
+			],
+			[
+				"gaddc",
+				"Git: Add Current File"
+			],
+			[
+				"gcomm",
+				"Git: Commit"
+			],
+			[
+				"gdiff",
+				"Git: Diff All"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"gdif",
+				"Git: Diff All"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gstatu",
+				"Git: Status"
+			],
+			[
+				"g status",
+				"Git: Status"
+			],
+			[
+				"g comm",
+				"Git: Commit"
+			],
+			[
+				"g add",
+				"Git: Add Current File"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packac",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"html",
+				"Snippet: HTML - Google Analytics"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"tag",
+				"Tag: Remove Picked Attributes From Tags in Document"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Reset"
+			],
+			[
+				"sublimelint",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 487.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/nginx/alsilog/static/css/style.less",
+		"/var/nginx/alsilog/static/index.html",
+		"/var/nginx/alsilog/templates/index.html",
+		"/var/nginx/alsilog/static/css/style.css",
+		"/var/nginx/alsilog/public/index.html",
+		"/var/nginx/alsilog/alsilog.fcgi",
+		"/var/nginx/alsilog/__init__.py",
+		"/home/karan/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/var/www/zopnew/AdminUI/static/js/zopnow_framework.js",
+		"/var/www/zopnew/AdminUI/static/js/widgets/productList.js",
+		"/home/karan/code/vow.js",
+		"/var/www/zopnew/AdminUI/static/js/jquery/jquery-2.0.0.js",
+		"/var/www/zopnew/AdminUI/static/js/widgets/brandList.js",
+		"/var/www/zopnew/AdminUI/static/js/templates/productEdit.html",
+		"/var/www/zopnew/zopapi/src/ZopNow/Model/Base.php",
+		"/var/www/zopnew/AdminUI/src/ZopNow/Utils/Response.php",
+		"/var/www/zopnew/AdminUI/static/js/alert-box.js",
+		"/var/www/zopnew/AdminUI/static/js/widget.js",
+		"/home/karan/code/customOnEvent.html",
+		"/var/www/zopnew/AdminUI/src/ZopNow/UI/Widget/ProductList.php",
+		"/home/karan/code/jquery-2.0.0.js",
+		"/home/karan/code/jquerySelectorEventBench.html",
+		"/home/karan/code/slick_parser/slick.html",
+		"/var/www/zopnew/AdminUI/static/js/login.js",
+		"/var/www/zopnew/AdminUI/static/js/router.js",
+		"/var/www/zopnew/AdminUI/static/css/style.css",
+		"/var/www/zopnew/AdminUI/web/index.php",
+		"/var/www/zopnew/AdminUI/static/js/loading.js",
+		"/var/www/zopnew/AdminUI/static/js/templates/productAdd.html",
+		"/var/www/zopnew/AdminUI/static/js/main.js",
+		"/var/www/zopnew/AdminUI/static/js/templates/brandAdd.html",
+		"/var/www/zopnew/AdminUI/static/js/templates/brandEdit.html",
+		"/var/www/zopnew/AdminUI/web/header.php",
+		"/var/www/zopnew/AdminUI/static/css/bootstrap/bootstrap-responsive.css",
+		"/var/www/zopnew/AdminUI/static/css/bootstrap/bootstrap.css",
+		"/var/www/zopnew/AdminUI/static/js/require/text.js",
+		"/var/www/zopnew/AdminUI/static/.htaccess",
+		"/var/www/zopnew/AdminUI/static/js/require/require.js",
+		"/home/karan/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/var/www/zopnew/AdminUI/config/constants.config",
+		"/var/www/zopnew/AdminUI/src/ZopNow/UI/Widget/BrandList.php",
+		"/var/www/zopnew/AdminUI/web/.htaccess",
+		"/var/www/zopnew/zopapi/public/.htaccess",
+		"/var/www/zopnew/AdminUI/web/sidebar.php",
+		"/var/www/zopnew/AdminUI/src/ZopNow/UI/Widget/Base.php",
+		"/var/www/zopnew/AdminUI/src/ZopNow/UI/Widget/Factory.php",
+		"/var/www/zopnew/zopapi/src/ZopNow/Model/Product.php",
+		"/var/www/zopnew/zopapi/src/ZopNow/Model/Category.php",
+		"/var/www/zopnew/zopapi/src/ZopNow/Model/TaxCategory.php",
+		"/var/www/zopnew/zopapi/src/ZopNow/Controller/ApiController.php",
+		"/var/www/zopnew/zopapi/src/ZopNow/Model/Brand.php",
+		"/var/www/zopnew/zopapi/src/ZopNow/Controller/Brand.php",
+		"/var/www/zopnew/AdminUI/README",
+		"/var/www/zopnew/zopapi/src/ZopNow/Controller/Category.php",
+		"/var/www/zopnow/admin/inventory/brandList.php",
+		"/var/www/zopnew/zopapi/public/index.php",
+		"/var/www/zopnew/zopapi/config/database.config",
+		"/var/www/zopnew/zopapi/src/ZopNow/Utility/API/Response.php",
+		"/var/www/zopnew/AdminUI/web/widget.php",
+		"/var/www/zopnow/website/header.php",
+		"/var/www/zopnow/static/js/zopnow.js",
+		"/var/www/zopnow/static/js/combine_minify.sh",
+		"/home/karan/code/alsilog/app.js",
+		"/home/karan/code/alsilog/npm-shrinkwrap.json",
+		"/home/karan/code/alsilog/view-util.js",
+		"/home/karan/code/alsilog/alsilog.sublime-workspace",
+		"/var/www/zopnow/static/js/site_modules/grid.js",
+		"/var/www/zopnow/static/js/site_modules/main.js",
+		"/home/karan/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/var/www/zopnow/static/js/site_modules/cartTable.js",
+		"/home/karan/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/var/www/zopnow/static/js/site_modules/cart.js",
+		"/home/karan/code/alsilog/views/header.ejs",
+		"/var/www/zopnow/common/classes/ZopNow/Utility/Zoppie.php",
+		"/home/karan/code/alsilog/node_modules/mysql/test/integration/connection/test-exception-safety.js",
+		"/var/www/zopnow/common/classes/ZopNow/Model/Order.php",
+		"/var/www/zopnow/common/classes/ZopNow/Model/Item.php",
+		"/var/www/zopnow/static/js/zopnow_framework.js",
+		"/var/www/zopnow/website/signup.php",
+		"/var/www/zopnow/common/classes/ZopNow/Model/User.php",
+		"/var/www/zopnow/website/api/index.php",
+		"/var/www/zopnow/website/api.php",
+		"/var/www/zopnow/common/classes/ZopNow/Utility/UserUtility.php",
+		"/var/www/zopnow/config/config.php",
+		"/var/www/zopnow/admin/order/api.php",
+		"/var/www/zopnow/common/classes/Analytics/Model/User.php",
+		"/var/www/zopnow/static/js/zopnow_old.js",
+		"/var/www/zopnow/common/classes/ZopNow/Formatter/APIFormatter.php",
+		"/home/karan/code/alsilog/config.js",
+		"/var/www/zopnow/common/classes/ZopNow/Model/Bundle.php",
+		"/var/www/zopnow/common/classes/ZopNow/Utility/ObjectSorter.php",
+		"/var/www/zopnow/common/classes/ZopNow/Model/Category.php",
+		"/var/www/zopnow/website/browse.php",
+		"/var/www/zopnow/common/classes/ZopNow/Model/Campaign.php",
+		"/var/www/zopnow/common/classes/ZopNow/Model/Product.php",
+		"/var/www/zopnow/admin/order/orderDetails.php",
+		"/var/www/zopnow/composer.lock",
+		"/home/karan/code/webflow.html",
+		"/var/www/zopnow/admin/order/tripOrders.php",
+		"/var/www/zopnow/admin/order/viewAndroids.php",
+		"/var/www/zopnow/common/classes/DB.php",
+		"/var/www/zopnow/admin/header.php",
+		"/var/www/zopnow/static/js/infobox.js",
+		"/var/www/zopnow/common/classes/ZopNow/Model/Android.php",
+		"/var/www/zopnow/mobile/api.php",
+		"/var/www/zopnow/admin/api.php",
+		"/var/www/zopnow/static/js/admin.js",
+		"/home/karan/code/alsilog/routes/admin.js",
+		"/var/www/zopnow/common/interfaces/IObservable.php",
+		"/var/www/zopnow/admin/order/slotSheet.php",
+		"/home/karan/code/alsilog/public/javascripts/require-jquery.js",
+		"/var/www/zopnow/static/js/slotsheet.js",
+		"/var/www/zopnow/static/js/markerwithlabel.js",
+		"/var/www/zopnow/admin/order/viewOrders.php",
+		"/var/www/zopnow/admin/order/checkOrder.php",
+		"/var/www/zopnow/static/js/markerclusterer.js",
+		"/var/www/zopnow/common/classes/CacheManager.php",
+		"/var/www/zopnow/common/classes/ZopNow/Redis.php",
+		"/var/www/zopnow/common/classes/ZopNow/Model/Trip.php",
+		"/var/www/zopnow/scripts/bin/zop-object-cache-warming",
+		"/var/www/zopnow/scripts/bin/zop-cache-update",
+		"/var/www/zopnow/config/log.properties",
+		"/var/www/zopnow/website/reviewCart.php",
+		"/var/www/zopnow/common/classes/ShoppingCart.php",
+		"/var/www/zopnow/static/js/zn.min.js",
+		"/var/www/zopnow/static/js/jquery.js",
+		"/var/www/zopnow/website/zopkets.php",
+		"/var/www/zopnow/website/zopket.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/var/www/zopnew/zopapi",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@radius",
+			"radius",
+			"nextTick",
+			"undef",
+			"core_version",
+			"trim:",
+			"core_version",
+			"core_version.trim",
+			"core_trim",
+			"$",
+			"GET method is not defined",
+			"data-type",
+			"[0]",
+			"console",
+			"saveProduct",
+			"e",
+			"evt",
+			"event",
+			"$",
+			"this.ej",
+			"this.el",
+			"dom.par",
+			"dom",
+			"addEventLi",
+			"data_priv\n",
+			"data_priv",
+			"//",
+			"div",
+			"elCurr",
+			"currSelector.type",
+			"matchesSelector",
+			"2870",
+			"dropdown",
+			"$",
+			"dom",
+			"afterAnimated",
+			"this",
+			"transition",
+			"class",
+			"remove",
+			"\\balert-[^\\s]*\\b",
+			"$",
+			"this",
+			"e",
+			"document",
+			"empty",
+			"utils",
+			"exDOM",
+			"exUtils",
+			"classes",
+			"znf.",
+			"){",
+			"znf",
+			"$",
+			"hideEditSlider",
+			"textare",
+			"$",
+			"i",
+			"$",
+			"$target",
+			"$",
+			".util",
+			"domfrom",
+			"addPro",
+			"action",
+			"actions",
+			"...",
+			"elAn",
+			"hide",
+			"alertbox",
+			".util",
+			"loadDependencies",
+			"$",
+			"$widgetCont",
+			"node",
+			"empty:",
+			"$widgetCont",
+			"exUtils",
+			"document",
+			"$",
+			".3s",
+			"1s",
+			"fade",
+			"name",
+			"this.el[0]",
+			"classList.classList",
+			"$",
+			"e.",
+			"LoginForm",
+			"undefined",
+			"undeinfed",
+			"addDialog",
+			"template.",
+			"' +",
+			"'    ",
+			"' +",
+			"'              ",
+			"move",
+			".fade",
+			"template.add",
+			"' +",
+			"'    ",
+			"template.edit",
+			"'              ",
+			"' +",
+			"[",
+			"size=\"10\"",
+			"categories",
+			"size=\"20\"",
+			"type for",
+			".modal",
+			"modal-body",
+			".modal",
+			"'                      ",
+			"console.",
+			"primary_category",
+			"this",
+			"isFormField",
+			".modal",
+			"boot",
+			"modal",
+			"selected",
+			" <%=\\(.*%>",
+			"<%[^\\s]*%>",
+			"<%(^\\s)*%>",
+			"'                      ",
+			"edit pro",
+			"showAddDialog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"util",
+			"dom",
+			"utils",
+			") {",
+			"",
+			"    ",
+			"",
+			"              ",
+			"",
+			"    ",
+			"              ",
+			"",
+			"primary-tag",
+			"exports.",
+			"xCategoryList"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "alsilog.py",
+					"settings":
+					{
+						"buffer_size": 413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/index.html",
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "static/css/style.less",
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 171.0
+	},
+	"output.git":
+	{
+		"height": 687.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"productlistphp",
+				"AdminUI/src/ZopNow/UI/Widget/ProductList.php"
+			],
+			[
+				"widget",
+				"AdminUI/static/js/widget.js"
+			],
+			[
+				"brandlist",
+				"AdminUI/static/js/widgets/brandList.js"
+			],
+			[
+				"productlistjs",
+				"AdminUI/static/js/widgets/productList.js"
+			],
+			[
+				"productlist",
+				"AdminUI/static/js/widgets/productList.js"
+			],
+			[
+				"z",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"alertbox",
+				"AdminUI/static/js/alert-box.js"
+			],
+			[
+				"zopfmr",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"index",
+				"AdminUI/web/index.php"
+			],
+			[
+				"alert",
+				"AdminUI/static/js/alert-box.js"
+			],
+			[
+				"zopnowfra",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"index.p",
+				"AdminUI/web/index.php"
+			],
+			[
+				"header",
+				"AdminUI/web/header.php"
+			],
+			[
+				"style.css",
+				"AdminUI/static/css/style.css"
+			],
+			[
+				"zopfram",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"bootst",
+				"AdminUI/static/css/bootstrap/bootstrap-responsive.css"
+			],
+			[
+				"style.cs",
+				"AdminUI/static/css/style.css"
+			],
+			[
+				"main.js",
+				"AdminUI/static/js/main.js"
+			],
+			[
+				"product",
+				"AdminUI/src/ZopNow/UI/Widget/ProductList.php"
+			],
+			[
+				"bootstra",
+				"AdminUI/static/css/bootstrap/bootstrap-responsive.css"
+			],
+			[
+				"styl",
+				"AdminUI/static/css/style.css"
+			],
+			[
+				"zopnow",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"router",
+				"AdminUI/static/js/router.js"
+			],
+			[
+				"boot",
+				"AdminUI/static/css/bootstrap/bootstrap.css"
+			],
+			[
+				"zop",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"loading",
+				"AdminUI/static/js/loading.js"
+			],
+			[
+				"productlist.php",
+				"AdminUI/src/ZopNow/UI/Widget/ProductList.php"
+			],
+			[
+				"con",
+				"AdminUI/config/constants.config"
+			],
+			[
+				"brandlistjs",
+				"AdminUI/static/js/widgets/brandList.js"
+			],
+			[
+				"zopnow_",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"adminuiprophp",
+				"AdminUI/src/ZopNow/UI/Widget/ProductList.php"
+			],
+			[
+				"adminproduct",
+				"AdminUI/static/js/widgets/productList.js"
+			],
+			[
+				"constants.config",
+				"AdminUI/config/constants.config"
+			],
+			[
+				"router.js",
+				"AdminUI/static/js/router.js"
+			],
+			[
+				"sidebar",
+				"AdminUI/web/sidebar.php"
+			],
+			[
+				"head",
+				"AdminUI/web/header.php"
+			],
+			[
+				"admibase",
+				"AdminUI/src/ZopNow/UI/Widget/Base.php"
+			],
+			[
+				"base.p",
+				"zopapi/src/ZopNow/Model/Base.php"
+			],
+			[
+				"factory",
+				"AdminUI/src/ZopNow/UI/Widget/Factory.php"
+			],
+			[
+				"style",
+				"AdminUI/static/css/style.css"
+			],
+			[
+				"modelcate",
+				"zopapi/src/ZopNow/Model/Category.php"
+			],
+			[
+				"modelca",
+				"zopapi/src/ZopNow/Model/TaxCategory.php"
+			],
+			[
+				"modelcategory",
+				"zopapi/src/ZopNow/Model/Category.php"
+			],
+			[
+				"zopnofram",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"modelproduc",
+				"zopapi/src/ZopNow/Model/Product.php"
+			],
+			[
+				"zopapibrand",
+				"zopapi/src/ZopNow/Controller/Brand.php"
+			],
+			[
+				"idebar",
+				"AdminUI/web/sidebar.php"
+			],
+			[
+				"login",
+				"AdminUI/static/js/login.js"
+			],
+			[
+				"base.",
+				"AdminUI/src/ZopNow/UI/Widget/Base.php"
+			],
+			[
+				"uibranlist",
+				"AdminUI/src/ZopNow/UI/Widget/BrandList.php"
+			],
+			[
+				"uibralist",
+				"AdminUI/static/js/widgets/brandList.js"
+			],
+			[
+				"adminbrandlist",
+				"zopnow/admin/inventory/brandList.php"
+			],
+			[
+				"stylecss",
+				"AdminUI/static/css/style.css"
+			],
+			[
+				"datacon",
+				"zopapi/config/database.config"
+			],
+			[
+				"zopapiapi",
+				"zopapi/src/ZopNow/Controller/ApiController.php"
+			],
+			[
+				"zopapiresponse",
+				"zopapi/src/ZopNow/Utility/API/Response.php"
+			],
+			[
+				"widget.js",
+				"AdminUI/static/js/widget.js"
+			],
+			[
+				"zopnow_fra",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"index.php",
+				"zopapi/public/index.php"
+			],
+			[
+				"boott",
+				"AdminUI/static/css/bootstrap/bootstrap.css"
+			],
+			[
+				"bralistphp",
+				"AdminUI/src/ZopNow/UI/Widget/BrandList.php"
+			],
+			[
+				"bralisphp",
+				"zopnow/admin/inventory/brandList.php"
+			],
+			[
+				"brandlist.js",
+				"AdminUI/static/js/widgets/brandList.js"
+			],
+			[
+				"login.js",
+				"AdminUI/static/js/login.js"
+			],
+			[
+				"zopnow.js",
+				"zopnow/static/js/zopnow.js"
+			],
+			[
+				"zopframe",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"data",
+				"zopapi/config/database.config"
+			],
+			[
+				"zopnow_f",
+				"AdminUI/static/js/zopnow_framework.js"
+			],
+			[
+				"view-",
+				"alsilog/view-util.js"
+			],
+			[
+				"com",
+				"zopnow/static/js/combine_minify.sh"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"utilityzoppie",
+				"zopnow/common/classes/ZopNow/Utility/Zoppie.php"
+			],
+			[
+				"item.php",
+				"zopnow/common/classes/ZopNow/Model/Item.php"
+			],
+			[
+				"modelorder",
+				"zopnow/common/classes/ZopNow/Model/Order.php"
+			],
+			[
+				"zopnowframe",
+				"zopnow/static/js/zopnow_framework.js"
+			],
+			[
+				"websiteapi.p",
+				"zopnow/website/api.php"
+			],
+			[
+				"userutility",
+				"zopnow/common/classes/ZopNow/Utility/UserUtility.php"
+			],
+			[
+				"api/index",
+				"zopnow/website/api/index.php"
+			],
+			[
+				"item",
+				"zopnow/common/classes/ZopNow/Model/Item.php"
+			],
+			[
+				"userutil",
+				"zopnow/common/classes/ZopNow/Utility/UserUtility.php"
+			],
+			[
+				"model/user",
+				"zopnow/common/classes/ZopNow/Model/User.php"
+			],
+			[
+				"user.php",
+				"zopnow/common/classes/Analytics/Model/User.php"
+			],
+			[
+				"signup.",
+				"zopnow/website/signup.php"
+			],
+			[
+				"apiformar",
+				"zopnow/common/classes/ZopNow/Formatter/APIFormatter.php"
+			],
+			[
+				"api",
+				"zopnow/website/api.php"
+			],
+			[
+				"config.",
+				"zopnow/config/config.php"
+			],
+			[
+				"grid",
+				"zopnow/static/js/site_modules/grid.js"
+			],
+			[
+				"config.ph",
+				"zopnow/config/config.php"
+			],
+			[
+				"config",
+				"alsilog/config.js"
+			],
+			[
+				"zopnow_ol",
+				"zopnow/static/js/zopnow_old.js"
+			],
+			[
+				"bro",
+				"zopnow/website/browse.php"
+			],
+			[
+				"model/categor",
+				"zopnow/common/classes/ZopNow/Model/Category.php"
+			],
+			[
+				"pbjectsort",
+				"zopnow/common/classes/ZopNow/Utility/ObjectSorter.php"
+			],
+			[
+				"order/order.",
+				"zopnow/admin/order/orderDetails.php"
+			],
+			[
+				"",
+				"zopnow/composer.lock"
+			],
+			[
+				"db",
+				"zopnow/common/classes/DB.php"
+			],
+			[
+				"order/api",
+				"zopnow/admin/order/api.php"
+			],
+			[
+				"triporder",
+				"zopnow/admin/order/tripOrders.php"
+			],
+			[
+				"vewand",
+				"zopnow/admin/order/viewAndroids.php"
+			],
+			[
+				"viewand",
+				"zopnow/admin/order/viewAndroids.php"
+			],
+			[
+				"infobox",
+				"zopnow/static/js/infobox.js"
+			],
+			[
+				"modelandroid",
+				"zopnow/common/classes/ZopNow/Model/Android.php"
+			],
+			[
+				"android",
+				"zopnow/common/classes/ZopNow/Model/Android.php"
+			],
+			[
+				"orderapi.pp",
+				"zopnow/admin/order/api.php"
+			],
+			[
+				"api.php",
+				"zopnow/mobile/api.php"
+			],
+			[
+				"viewandroi",
+				"zopnow/admin/order/viewAndroids.php"
+			],
+			[
+				"config.p",
+				"zopnow/config/config.php"
+			],
+			[
+				"admin.js",
+				"zopnow/static/js/admin.js"
+			],
+			[
+				"viewandroid",
+				"zopnow/admin/order/viewAndroids.php"
+			],
+			[
+				"model/",
+				"zopnow/common/classes/Analytics/Model/User.php"
+			],
+			[
+				"cart.",
+				"zopnow/static/js/site_modules/cart.js"
+			],
+			[
+				"slot",
+				"zopnow/admin/order/slotSheet.php"
+			],
+			[
+				"slotsheet",
+				"static/js/slotsheet.js"
+			],
+			[
+				"cart.js",
+				"static/js/site_modules/cart.js"
+			],
+			[
+				"makerwith",
+				"static/js/markerwithlabel.js"
+			],
+			[
+				"markerwith",
+				"static/js/markerwithlabel.js"
+			],
+			[
+				"marker",
+				"static/js/markerclusterer.js"
+			],
+			[
+				"model/or",
+				"common/classes/ZopNow/Model/Order.php"
+			],
+			[
+				"model/ord",
+				"common/classes/ZopNow/Model/Order.php"
+			],
+			[
+				"model/order",
+				"common/classes/ZopNow/Model/Order.php"
+			],
+			[
+				"checkorder",
+				"admin/order/checkOrder.php"
+			],
+			[
+				"vieworders",
+				"admin/order/viewOrders.php"
+			],
+			[
+				"redis",
+				"common/classes/ZopNow/Redis.php"
+			],
+			[
+				"cachemana",
+				"common/classes/CacheManager.php"
+			],
+			[
+				"modeltrip",
+				"common/classes/ZopNow/Model/Trip.php"
+			],
+			[
+				"orderapi",
+				"admin/order/api.php"
+			],
+			[
+				"slotsheet.",
+				"static/js/slotsheet.js"
+			],
+			[
+				"zopcache",
+				"scripts/bin/zop-object-cache-warming"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/karan/code/zopnow.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

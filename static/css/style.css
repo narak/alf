@@ -1,0 +1,13 @@
+html{height:100%;padding:0;margin:0;}
+body{color:#4a4345;font-family:'Open Sans',Arial,sans-serif;font-size:100%;font-weight:300;height:100%;line-height:1.4em;margin:0;padding:0;}
+input,button{border:1px solid #4a4345;font-family:inherit;font-size:1em;-webkit-transition:background-color .5s ease;-moz-transition:background-color .5s ease;-o-transition:background-color .5s ease;-ms-transition:background-color .5s ease;transition:background-color .5s ease;-webkit-border-radius:3px;-webkit-background-clip:padding-box;-moz-border-radius:3px;-moz-background-clip:padding;border-radius:3px;background-clip:padding-box;}
+#login{padding:0 20px;margin-top:-120px;left:20%;top:50%;position:absolute;}#login a{display:block;color:inherit;margin:10px -20px;padding:2px 20px;text-decoration:none;-webkit-transition:background-color .5s ease;-moz-transition:background-color .5s ease;-o-transition:background-color .5s ease;-ms-transition:background-color .5s ease;transition:background-color .5s ease;-webkit-border-radius:3px;-webkit-background-clip:padding-box;-moz-border-radius:3px;-moz-background-clip:padding;border-radius:3px;background-clip:padding-box;}
+#login a:hover{background-color:#4c96d0;color:#fff;}
+#login input{border:0;display:block;outline:0;font-family:inherit;font-size:1.7em;margin:10px -20px;padding:10px 20px;width:300px;-webkit-transition:background-color .5s ease;-moz-transition:background-color .5s ease;-o-transition:background-color .5s ease;-ms-transition:background-color .5s ease;transition:background-color .5s ease;-webkit-border-radius:3px;-webkit-background-clip:padding-box;-moz-border-radius:3px;-moz-background-clip:padding;border-radius:3px;background-clip:padding-box;}
+#login input::-webkit-input-placeholder{color:#cccccc;}
+#login input:focus{background-color:#333333;color:#fff;}
+.hide{-webkit-opacity:0;-moz-opacity:0;opacity:0;}
+.nodisplay{display:none;}
+.ani-fade-in{-webkit-animation:fade-in 0.3s ease-out 1 forwards;}
+.ani-fade-out{-webkit-animation:fade-out 0.3s ease-out 1 forwards;}
+@-webkit-keyframes fade-in{0%{opacity:0;} 100%{opacity:1;}}@-webkit-keyframes fade-out{0%{opacity:1;} 100%{opacity:0;}}
